@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecomzy/static/css/main.b4a8d500.css",
+    "main.js": "/Ecomzy/static/js/main.726e1704.js",
+    "index.html": "/Ecomzy/index.html",
+    "main.b4a8d500.css.map": "/Ecomzy/static/css/main.b4a8d500.css.map",
+    "main.726e1704.js.map": "/Ecomzy/static/js/main.726e1704.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4a8d500.css",
+    "static/js/main.726e1704.js"
+  ]
+}
